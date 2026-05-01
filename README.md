@@ -31,6 +31,9 @@ npm start
 - Working with React Flow
 - Managing state using Zustand
 - Building interactive UIs
+## 📸 Screenshot
+
+![Pipeline UI](./screenshot.png)
 
 👨‍💻 Author
 
